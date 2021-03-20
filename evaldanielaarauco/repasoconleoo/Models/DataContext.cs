@@ -11,6 +11,7 @@ namespace repasoconleoo.Models
         public DataContext():base("DefaultConnection")
         {
 
+
         }
     }
 }
